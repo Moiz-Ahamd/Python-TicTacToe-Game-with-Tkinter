@@ -1,5 +1,3 @@
-<img width="990" height="708" alt="image" src="https://github.com/user-attachments/assets/c3795e46-348e-4725-b1e8-9b8f04b0c6a3" /># Tic Tac Toe Game with Tkinter 🎮
-
 A classic **Tic Tac Toe** game built in **Python** using **Tkinter**. Play against a friend or the computer with a user-friendly GUI.
 
 ---
